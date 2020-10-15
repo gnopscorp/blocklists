@@ -1,0 +1,5 @@
+## Pykspa IP Lists
+## Date: 2020/10/15
+## IP Filter List
+
+199.21.76.82
