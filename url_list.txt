@@ -1,6 +1,6 @@
 ## Emotet Related IP's && URL's 
 ##
-## Date: 2020/10/15
+## Date: 2020/10/16
 ##
 ## Emotet URL - Overview 
 
