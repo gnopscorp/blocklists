@@ -1,11 +1,7 @@
 ## Emotet Related IP's && URL's 
-##
 ## Date: 2020/10/18
-##
 ## Emotet URL - Overview 
 
-
-## Clean Links
 0-24bpautomentes.hu
 0931tangfc.com
 0win365.com
