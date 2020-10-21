@@ -1,4 +1,4 @@
-# Maleware IP Overview #
+# Malware IP Overview #
 # Date: 2020/10/21
 # IP Filter List
 
