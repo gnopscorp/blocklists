@@ -1,5 +1,5 @@
 # Maleware IP Overview #
-# Date: 2020/10/19
+# Date: 2020/10/21
 # IP Filter List
 
 73.228.1.246
