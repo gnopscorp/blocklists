@@ -5,7 +5,7 @@
 #
 # Date: 2020/10/21
 #
-# IP Filter List
+# IP Distribution List
 
 1.226.84.243
 100.1.239.189
