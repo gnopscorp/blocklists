@@ -2,7 +2,7 @@
 #
 # Qakbot/Trickbot/Zloader/SovietzLoader/Ryuk/Netwalker/Bazar/CobaltStrike/Tesla
 # 
-# Date: 2020/10/2
+# Date: 2020/10/24
 #
 # URL Distribution List
 
