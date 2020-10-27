@@ -1,7 +1,6 @@
 # Malware IP Overview #
 #
 # Qakbot/Trickbot/Zloader/SovietzLoader/Ryuk/Netwalker/Bazar/CobaltStrike/Tesla/Hancitor/Dridex
-# BestFudOOO/
 #
 # Date: 2020/10/27
 #
