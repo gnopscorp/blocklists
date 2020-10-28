@@ -2,7 +2,7 @@
 #
 # Qakbot/Trickbot/Zloader/SovietzLoader/Ryuk/Netwalker/Bazar/CobaltStrike/Tesla/Hancitor/Dridex
 #
-# Date: 2020/10/27
+# Date: 2020/10/28
 #
 # IP Distribution List
 
