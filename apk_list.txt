@@ -1,0 +1,46 @@
+# Malware in APK URL Overview #
+#
+# Date: 2020/11/02
+#
+# APK URL Distribution List
+
+adobeapplicationslink/update-4-6-08.apk
+adobeflashplayer.link/version_4_6_03.apk
+agoralux.com.br/KBANK.apk
+basvurusonuc-sorgula.com/eDestek.apk
+bddk-pandemi1com/BDDK.apk
+cdn.discordapp.com/attachments/763010428057813004/771730683370012692/AndroidUpdate_obf.apk
+cdn.discordapp.com/attachments/770435769835061269/771258691633545236/grocn.apk
+cdn.discordapp.com/attachments/770570317084885037/770794427161247774/Update.apk
+cdn.discordapp.com/attachments/770570317084885037/771704656153673758/eDestek.apk
+cdn.discordapp.com/attachments/771058011597832252/771077422267236392/e-Devlet.apk
+cdn.discordapp.com/attachments/771702233896583181/771733918915362836/PandemiDestekPaketi.apk
+cdn.discordappcom/attachments/756956093682417704/768745539297738772/tankturk.apk
+cdn.discordappcom/attachments/757675360501366933/768900452027858984/e-Devlet.apk
+cdn.discordappcom/attachments/760912014964293686/770292586115366942/eDestek.apk
+fjetsamcom/apk/AndroidUpdate11.22.17.apk
+hakkural-irtinziba-webtr.com/ePandemi.apk
+https://cdn.discordapp.com/attachments/751862116364845109/772537171268730910/flashPlayer.apk
+https://cdn.discordapp.com/attachments/763010428057813004/771730683370012692/AndroidUpdate_obf.apk
+https://cdn.discordapp.com/attachments/770570317084885037/771704656153673758/eDestek.apk
+https://cdn.discordapp.com/attachments/771105574510264372/772782359447339038/AndroidUpdate.apk
+https://cdn.discordapp.com/attachments/771376070896910348/771777395559759889/GoogleGuncelleme................................................................apk
+https://des-tekbasvurukapsami.com/eDestek.apk
+https://esflashplayernuevo.info/Adobe_Flash_2020.apk
+https://flplayer2020nuevo.info/Adobe_Flash_2020.apk
+https://int-irtdiyafonwebgirisleriniz.com/
+https://int-irtdiyafonwebgirisleriniz.com/ePandemi.apk
+https://ovveu.club/apk/es/MediaPlayer.apk
+https://pecadoras.club/apk/MediaPlayer.apk
+https://sepost-f.top/PostNord.apk
+https://son-destekk-basvuru.com/eDestek.apk
+https://sosyalbasvurukapsami.com/eDestek.apk
+https://tekizmilletiz-irtibatwebdiyalogtr.com/pandemiDestek.apk
+https://tekmillet-irtibatwebdiyalogtr.com/pandemiDestek.apk
+https://xxx-vidmo.online/load/AdobeFlashPlayer.apk
+int-irtdiyafonwebgirisleriniz.com/ePandemi.apk
+pecadoras.club/apk/MediaPlayer.apk
+realpornohp.com/FlashPlayerUpdate.apk
+sisteminizdevirusbulunducom/antivirus.apk
+vidtop-xxx.online/load/AdobeFlashPlayer.apk
+xxx-vidmo.online/load/AdobeFlashPlayer.apk
